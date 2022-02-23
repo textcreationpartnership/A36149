@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dissenters address to His Majesty</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36149</idno>
+            <idno type="STC">Wing D1684</idno>
+            <idno type="STC">ESTC R6709</idno>
+            <idno type="EEBO-CITATION">13705435</idno>
+            <idno type="OCLC">ocm 13705435</idno>
+            <idno type="VID">101482</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101482)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 842:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dissenters address to His Majesty</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.D.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101482:1" rendition="simple:additions"/>
+            <head>The Diſſenters Addreſs, to his MAJESTY.</head>
+            <opener>
+               <salute>Sir, MAy it pleaſe your Majeſty</salute>
+            </opener>
+            <p>—We the Saints of the Bleſt Reformed <hi>Kirk, Presbyterians, Independants, Fifth-Monarch</hi> Men, <hi>Quakers, Mugletonians, Pythagorians, Millenarians, Calviniſts, Browniſts, Zwinglians, Arians, A<g ref="char:EOLhyphen"/>theiſts, Hypocrits, Blaſphemers, Diſſenters, Covenanters, Canters, Ranters, Circum<g ref="char:EOLhyphen"/>venters, Forgerers, Perjurers, Subornors, Detractors, Compactors, and Fractors, Whores, Rogues</hi> and <hi>Bawds, Coockolds,</hi> and <hi>Coockold-Makers,</hi> a parcel of <hi>old perjured Lord Mayors,</hi> and <hi>Sheriffs,</hi>—a Race of Worthies, ſpawnd from: the Loyns of fifty odd <hi>Non-Cons, Holders forth,</hi> whoſe Daughters, furniſh <hi>Whetſtons-Park, More-Fields, Wapping,</hi> and other parts of the Town, with Whores their Sons, &amp; their Pimps, and we are the third and fourth Generation, who now Addreſs to your Ma<g ref="char:EOLhyphen"/>jeſty and have over-ſpread moſt parts of the three Nations—pray you, Sir, judge if it is poſſible for us to be more Loyal than we are, conſidering our fore Father, The Rebellious Stalions from whence we are deſcended—we do confeſs we are Imps of Diſſention and Rebellion, by inſtinct of Nature, and cannot help it,—it is innated in us to commit Murthers, Plots, Rapes, Forgeries, and all other Innormities, and Villanies, and thack 'em all upon the Papiſts: if they deny to be Guilty of our faults, either at their Tryal, or Execution, then we cry Mental Reſervations are the Popiſh Principles; and would disjoynt them alive if the Law would let us. Sir, it is our fralties and we cannot help it.</p>
+            <p>And now Sir, we do with moſt Inſollence, Impudence and Confidence im<g ref="char:EOLhyphen"/>plore your moſt Gracious Majeſty—That theſe Saints of our Communitie and Holy: Order of Rebellion, and Common-Wealth, in whoſe good or bad ſucceſs we have a fellow-feelling; that the Aſpertion of this pretended <hi>Pres<g ref="char:EOLhyphen"/>byterian-Plot</hi> may be taken off us—for we deſire that it may be the Opinion of all the World, that the <hi>Papiſts</hi> have had as great a hand in it; as they have had in all the Plots this five years laſt paſt—What if my Lord <hi>Shaftsbury,</hi> in whom we confided, as chief Patriot of the people, for their ſeveral Religions and Propertys and Privileges and Encouraging us to put our Paws to the Aſſociation; to ſeize and Aſſaſſinate your perſon and to Raiſe an Army againſt you to prevent the growth of Popery, or ſo—and he failing of his purpoſe ran away to ſave his Neck—he was an old Rogue, and ſhall we be Guilty of Treaſon for that?</p>
+            <p>If <hi>Oates</hi> and <hi>Tongue</hi> were to modelize a ſham Popiſh Plot, which gave opportu<g ref="char:EOLhyphen"/>nity to carry on a Presbyterian one.: Contrived before in <hi>Alderſgate-Street</hi> and other Caballs—what muſt the Soul-ſaving Saints ſuffer for that? and if Sanctified Holders forth, have taught us to take up Arms to fight for King Jeſus againſt his Annointed—They'll ſhew you Scripture for it—and if the Scripture
+<pb n="2" facs="tcp:101482:2"/>commands us to Rebell; why ſhould Rebellion be Treaſon—and if not why may not we Rebell when we pleaſe without being hanged,—like Dogs? why ſure it is not come to that? perhapps Mr. <hi>Mead,</hi> might ſay it was not only policy but neceſſ<g ref="char:EOLhyphen"/>ary to murther his King—muſt the holy <hi>Rollocks</hi> his flock be counted Rebells for that? And for the Godly Diſſenters to murther their King and lay it upon the the Papiſts; that's lawfull? For it paſt the late houſe of Commons <hi>Nemine Contra<g ref="char:EOLhyphen"/>dicente:</hi> and tho we in the City contribute to the maintenance of the cleanly Dr.—if we had not, he might have diſcovered the true Plot indeed. And might as well as it falls out: but if our deſigns had took,—the Doctors oath would have been very neceſſary, to have ſworn the murther upon the Papiſts. And would have made his paſt Plots and Perjuries to have paſt for truth into the bargain—Now for <hi>Monmouth, Grey, Armſtrong, Ruſſell, Sidney, Trencher;</hi> and a hundred-Thouſand—more, which are but a handfull of hot-headed fellows,—and ſince they are detected what relation are they to us; that are tho ſober Godly party? no they are a company of magot-headed Raſcalls—not worth the Society of the Godly. For why ſhould they undertake buiſineſs they are not able to go thorow ſtick with? Now if the project had ſucceeded; there could have been no reaſon, but we ſhould have been fellow-ſharers in the ſpoyles, being privy to the conſpiracy—but as it ſtands now—we are as Ambitious to fee them hanged for failing, as your Majeſtie for their attempting—for this murther and Maſſacre looks more horrid being divulged, than the Act it ſelf would have done both to us and the ſufferers; ſince the Apprehenſion of death is more terrible than death it ſelf—And thus Sir, You ſee we have made our ſel<g ref="char:EOLhyphen"/>ves as clear of the Plot as your Majeſtie or any body elſe can imagine us to be: and we hope you'll look upon us to be as loyal Subjects, as we have approved our ſelves ever ſince forty one; and ſo you ſhall ever find us, to the utmoſt of our power—Therefore we beſeech your Majeſty, not to hang us up like Bunches of <hi>Grapes,</hi> and Ropes of <hi>Onyons:</hi> And ſuffer our Heads to be ſold for 3. <abbr>d.</abbr> a piece, and ſet for Examples upon neceſſary Houſes; &amp; we ſhall Remain your Majeſties True, Blew, Proteſtant Diſſenting Subjects.</p>
+            <div type="part">
+               <head>Their Petition for ſome Correction, in the Managing the Plot and Government.</head>
+               <p>
+                  <hi>Imprimis</hi>—that Queen <hi>Beſſes</hi> Act may be Repealed: that <hi>Trencher</hi> may be Speaker in the next Houſe of Commons: that <hi>Monky Care,</hi> may chooſe his own Juſtice; for fear of falling into <hi>L'Eſtrange's</hi> hands: let it be lawful for any of our Brethren, to Murther his Father or Uncle for intreſt: that <hi>Howard</hi> of <hi>Eſ<g ref="char:EOLhyphen"/>creek</hi> may have a <hi>Crab-Tree</hi> to the <hi>Tower</hi> to preach in, and an <hi>Ignoramus Ju<g ref="char:EOLhyphen"/>ry</hi> to bring him out again.</p>
+               <p>But above all we beſeech you Remember our Antient Holy Kirk— ah; for the Laird's ſake, out Antient Kirk; for it is ſo old it wants patching every day—</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed for <hi>J. D.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
